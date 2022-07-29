@@ -1,0 +1,13 @@
+
+
+🔰FREE FILE CLONING WORKING COMMAND🔰
+
+rm -rf pro
+pkg update && pkg upgrade -y
+pkg install python
+pkg install git
+pip install requests
+
+cd prohttps://github.com/Sheikh313/heikr.git
+
+python pro.py 
